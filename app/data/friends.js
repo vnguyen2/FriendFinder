@@ -1,5 +1,5 @@
 
-var friendsArray = [
+var friendsList = [
 	{
 		name: 'Mystery',
 		photo: 'http://lorempixel.com/output/people-q-c-400-300-7.jpg',
