@@ -13,7 +13,7 @@ var friendsList = [
 	{
 		name: 'Angel',
 		photo: 'http://lorempixel.com/output/people-q-c-400-300-9.jpg',
-		score: ["5", "3", "5", "7", "5", "5", "2", "2", "5", "4"]
+		score: ["5", "3", "5", "1", "5", "5", "2", "2", "5", "4"]
 	}
 ];
 
