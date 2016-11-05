@@ -17,4 +17,4 @@ var friendsList = [
 	}
 ];
 
-module.exports = friendsArray;
+module.exports = friendsList;
